@@ -53,6 +53,10 @@ Dockerized NextCloud and Gitea behind a nginx reverse proxy with LetsEncrypt.
     
 Now that (hopefully) everything is running and has started up successfully you may now open NextCloud or Gitea via the virtual host your provided in the `.env` files.
 
+When first opening either Gitea or NextCloud you have to do the final setup. Select the MySQL database for both Gitea and Nextcloud and enter the credentials from the *_db.env files (not the root password though).
+
+Now wait until it's done setting up and that's it. Enjoy!
+
 # Sources
 The following software and images are used in this setup:
 
