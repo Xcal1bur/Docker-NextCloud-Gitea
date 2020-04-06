@@ -7,6 +7,9 @@ Docker-NextCloud-Gitea
 2. [Setup](#Setup)
 3. [Sources](#Sources)
 # About
+<p align="center">
+    <img width="400" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flinoxide.com%2Fwp-content%2Fuploads%2F2017%2F01%2Fnginx-reverse-proxy-inside-docker.png&f=1&nofb=1"></img>
+</p>
 Dockerized NextCloud and Gitea behind a nginx reverse proxy with LetsEncrypt.
 
 # Setup
