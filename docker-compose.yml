@@ -82,7 +82,7 @@ services:
     restart: always
     ports:
       - "3000:3000"
-      - "22:22"
+#      - "22:22"
     networks:
       - proxy-tier
     environment:
